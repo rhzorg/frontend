@@ -1,2 +1,2 @@
 # frontend
-A frontend application for rhzorg.nl
+A frontend application for rhzorg.nl.
